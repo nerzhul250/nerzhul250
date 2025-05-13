@@ -28,4 +28,5 @@
 - *Reading* about **gene editing (CRISPR), AlphaFold, Evo2 and evolutionary algorithms**—future applications in crop improvement (specially interested in coffe, sugar canes and avocado crops, quite popular crops where i live (Cali, Valle del Cauca, Colombia).  
 
 #### **Autonomous Systems & Robotics** ✈️🤖  
-- *Exploring* drone food delivery/logistics in the city of Cali,Colombia (theoretical for now, would love to order food km away from where i live, funding is welcomed).  
+- *Exploring* drone food delivery/logistics in the city of Cali,Colombia (theoretical for now, would love to order food km away from where i live, funding is welcomed).
+- Imagine automating everything in the physical world, we are gonna need really nice supply chains, and the chatgpt moment in robotics :)))
