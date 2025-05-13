@@ -5,7 +5,7 @@
 ### **Active Work**  
 
 #### **AI/ML Research** 🧠  
-- Experimenting with **model interpretability, merging, and efficient training** (lots of toy experiments and sailing through the latent space). 
+- Experimenting with **mechanistic interpretability, merging, and efficient training** (lots of toy experiments and sailing through the latent space). 
 - Experimenting with fully autonomous scientific research systems like [**AI-Scientist**](https://github.com/SakanaAI/AI-Scientist-v2)
 - Building practical AI tools—like [**AntiAICall**](https://antiaicall.com/), an assistant that screens calls and blocks telemarketers 🤖📞.  
 
